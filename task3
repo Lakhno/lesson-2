@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Задание3</title>
+  </head>
+  <body>
+<H1>Name</H1>
+<form action="/">
+<input type="text" name="name"/>
+</form>
+<H1>E-mail</H1>
+<form action="/">
+<input type="text" name="E-mail">
+</form>
+<H1>Sex</H1>
+<form action="/">
+<input type="radio" name="Male">
+<label>Male</label>
+<input type="radio" name="Female">
+<label>Female</label>
+</form>
+<H1>Current status</H1>
+<form action="/">
+<input type="checkbox" id="student">
+<label for="sudent">Student</label><br/>
+<input type="checkbox" id="employed">
+<label for="employed">Employed</label><br/>
+<input type="checkbox"checked id="unemployed">
+<label for="unemployed">Unemployed</label>
+<H1>Month and Year of birth</H1>
+<select size="1" mane="month">
+<option>June</option>
+<option>July</option>
+<option>August</option>
+<option>September</option>
+</select>
+<select size="1" name="year">
+<option>1981</option>
+<option>1982</option>
+<option>1983</option>
+<option>1984</option>
+</select>
+<H1>Skills and Technologies</H1>
+<select multiple="multiple" size="10">
+<option disabled>Tech skills</option>
+<option>HTML</option>
+<option>CSS</option>
+<option>JavaScript</option>
+<option>git</option>
+<option disabled>Soft Skills</option>
+<option>Time management</option>
+<option>Proactivity</option>
+<option>Teamwork</option>
+<option>Leadership</option>
+</select>
+<H1>Photo</H1>
+<form action="/" enctype="multipart/form-data">
+<input type="file" name="photo">
+</form>
+<H6>Comment</H6>
+<textarea name="comment" cols="20" rows="4">Добавьте свой комментарий</textarea><br/>
+<input type="submit" value="save">
+</body>
+</html>
