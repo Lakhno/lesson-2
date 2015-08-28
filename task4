@@ -1,0 +1,80 @@
+<h1>Часть №1</h1>
+<ul>
+  <li><a href="">Задание №1</a></li>
+  <li><a href="">Задание №2</a></li>
+  <li><a href="">Задание №3</a></li>
+</ul>  
+<h1>Часть №2</h1>
+<ul>
+  <li>Земля</li>
+</ul>
+<ol>
+  <li>Луна</li>
+</ol>
+<ul>
+  <li>Марс</li>
+</ul>
+<ol>
+  <li>Фобос</li>
+  <li>Деймос</li>
+</ol>  
+<ul>
+  <li>Уран</li>
+</ul>  
+<ol>
+  <li>Ариэль</li>
+  <li>Умбриэль</li>
+  <li>Титания</li>
+  <li>Оберон</li>
+  <li>Миранда</li>
+</ol>  
+<ul>
+  <li>Нептун</li>
+</ul>  
+<ol>
+  <li>Тритон</li>
+  <li>Нереида</li>
+</ol>  
+<h1>Часть №3</h1>
+<h1>Hoбeлeвcкиe лауреаты</h1>
+<ol type="I">
+  <li><strong>Премия по химии</strong></li>
+</ol>  
+<ol>
+  <li>АРРЕНИУС (Arrhenius), Сванте</li>
+  <li>ACTOH (Aston), Фрэнсис Уильям</li>
+  <li>БЕРГИУС (Bergius), Фридрих </li>
+  ..........
+</ol>
+<ol start="30">
+  <li>ФИШЕР (Fischer), Эмиль</li>
+  <li>ЭЙЛЕР-ХЕЛЬПИН (Euler-Chelpin), Ханс фон</li>
+  <li>ЮРИ (Urey), Гарольд К.</li>
+</ol>  
+<ol type="I" start="2">
+  <li><strong>Премия по литературе</strong></li>
+</ol>  
+<ol>
+  <li>БЕНАВЕНТЕ-И-МАРТИНЕС (Benavente у Martinez), Хасинто</li>
+  <li>BEPГCOH (Bergson), Анри</li>
+  <li>Анри BЬEPHCOH (Bjernson), Бьеристерне</li>
+  ..........
+</ol>  
+<ol start="30">
+  <li>ШПИTTEЛEP (Spitteler), Карл</li>
+  <li>ЭЙKEH (Eucken), Рудольф</li>
+  <li>ЭЧЕГАРАЙ (Echegaray), Xoce</li>
+</ol>  
+<ol type="I" start="3">
+  <li><strong>Премия мира</strong></li>
+</ol>  
+<ol>
+  <li>ACCEP (Asser), Тобиас</li>
+  <li>APHOЛЬДCOH (Arnoldson), Клас</li>
+  <li>БAЙEP (Bajer), Фредрик</li>
+  ..........
+</ol>  
+<ol start="25">
+  <li>САХАРОВ, Андрей</li>
+  <li>ФPИД (Fried), Альфред</li>
+</ol>  
